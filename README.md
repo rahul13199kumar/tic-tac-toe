@@ -11,6 +11,19 @@ The main function, which performs following tasks :
 
 4.Evaluate the board after each move to check whether a row or column or a diagonal has the same player number. If so, displays the winner name. If after 9 moves, there are no winner then displays -1.
 
+# Screenshots
+
+![p1](https://user-images.githubusercontent.com/55308841/103162572-50fb6600-4818-11eb-8405-a2db1ac1fa0c.png)
+
+
+
+![p2](https://user-images.githubusercontent.com/55308841/103162570-4ccf4880-4818-11eb-9057-b6d5647fded1.png)
+
+![p3](https://user-images.githubusercontent.com/55308841/103162568-45a83a80-4818-11eb-9e91-8ebf18dc541d.png)
+
+![p4](https://user-images.githubusercontent.com/55308841/103162574-548eed00-4818-11eb-90bc-c45d0b0a42de.png)
+
+
 
 # Output
 
@@ -68,3 +81,6 @@ Board after 8 move
  
 Winner is: 2
 
+# Contributor
+
+Rahul Kumar ,rahul13199kumar
